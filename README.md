@@ -22,8 +22,8 @@
 
 ### Tools Used
 
-- Excel – for data cleaning and feature engineering  
-- SQL – to calculate risk tiers and KPIs  
+- **Excel** – for data cleaning and feature engineering  
+- **SQL**– to calculate risk tiers and KPIs  
 - **Power BI** – to design visuals, DAX measures, interactivity
 
----[Dashboard Preview]()
+---[Dashboard Preview](dashboard risk project.PNG)
