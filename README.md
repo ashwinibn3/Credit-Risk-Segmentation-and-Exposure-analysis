@@ -26,4 +26,4 @@
 - **SQL**– to calculate risk tiers and KPIs  
 - **Power BI** – to design visuals, DAX measures, interactivity
 
----[Dashboard Preview](dashboard risk project.PNG)
+---[Dashboard Preview](https://github.com/ashwinibn3/Credit-Risk-Segmentation-and-Exposure-analysis/blob/main/dashboard%20risk%20project.PNG?raw=true)
